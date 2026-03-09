@@ -1,6 +1,6 @@
 # E-Commerce Data Analysis & RFM Customer Segmentation
 
-You can view and interact with the interactive dashboard on Streamlit app via this link:
+The **interactive dashboard** on Streamlit app via this link:
 https://thuy-ecommerce-dashboard1.streamlit.app/ <br>
 *(2-page dashboard, navigate to the 2nd page on the left side of the dashboard)*
 
