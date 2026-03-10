@@ -15,6 +15,10 @@ The project consists of three main components:
 2. **RFM Analysis:** Segmenting customers into 6 distinct groups (Champions, Loyal, Potential, At Risk, Lost, Other) based on their purchasing behavior.
 3. **Interactive Dashboard:** A Streamlit web application that allows stakeholders to view high-level business metrics and look up specific customers to see their RFM profile and tailored recommendations: https://thuy-ecommerce-dashboard1.streamlit.app/
 
+**Dashboard demo**
+
+![Dashboard Demo](dashboard-demo-1.gif)
+
 ## Key Insights
 
 - **Strong revenue concentration:** "Champions" (22% of customers) generate **67% of total revenue**.
